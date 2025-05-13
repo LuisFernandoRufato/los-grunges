@@ -2,7 +2,7 @@ export default function Contato() {
   const contatos = [
     { nome: "E-mail", link: "mailto:contato@losgrunges.com", info: "contato@losgrunges.com" },
     { nome: "Instagram", link: "https://www.instagram.com/losgrungesband", info: "@losgrungesband" },
-    { nome: "WhatsApp", link: "https://wa.me/5511998765432", info: "(11) 99876-5432" },
+    { nome: "WhatsApp", link: "https://wa.me/5500123456789", info: "(00) 12345-6789" },
   ];
 
   return (

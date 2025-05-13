@@ -1,9 +1,9 @@
 export default function Agenda() {
   const shows = [
-    { data: "2025-06-10", local: "Rua do Rock Club - São Paulo, SP" },
-    { data: "2025-06-17", local: "Caverna do Som - Rio de Janeiro, RJ" },
-    { data: "2025-06-24", local: "The Underground Stage - Belo Horizonte, MG" },
-    { data: "2025-07-01", local: "Mosh Pit Bar - Porto Alegre, RS" },
+    { data: "10-06-2025", local: "Rua do Rock Club - São Paulo, SP" },
+    { data: "17-06-2025", local: "Caverna do Som - Rio de Janeiro, RJ" },
+    { data: "24-06-2025", local: "The Underground Stage - Belo Horizonte, MG" },
+    { data: "01-07-2025", local: "Mosh Pit Bar - Porto Alegre, RS" },
   ];
 
   return (

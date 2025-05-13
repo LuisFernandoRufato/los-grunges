@@ -29,7 +29,7 @@ export default function Home() {
           </p>
 
           <p className="text-2xl leading-relaxed">
-            Nosso repertório inclui também releituras de nomes como Silverchair, Creed, Three Days Grace, Nickelback e Foo Fighters, adaptadas ao formato acústico, mas mantendo a força das letras e a atmosfera densa que definem o estilo. É grunge de raiz, com violões, vozes rasgadas com emoção à flor da pele.
+            Nosso repertório inclui também releituras de nomes como Silverchair, Creed, Three Days Grace, Nickelback, Foo Fighters, entre outras bandas adaptadas ao formato acústico, mas mantendo a força das letras e a atmosfera densa que definem o estilo.
           </p>
         </div>
       </div>

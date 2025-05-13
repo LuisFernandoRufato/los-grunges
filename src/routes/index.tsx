@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
 import Fotos from "../pages/Fotos";
 import Agenda from "../pages/Agenda";
-import Contatos from "../pages/Contatos";
+import Contato from "../pages/Contato";
 
 export default function AppRoutes() {
   return (
@@ -10,7 +10,7 @@ export default function AppRoutes() {
       <Route path="/" element={<Home />} />
       <Route path="/fotos" element={<Fotos />} />
       <Route path="/agenda" element={<Agenda />} />
-      <Route path="/contatos" element={<Contatos />} />
+      <Route path="/contato" element={<Contato />} />
     </Routes>
   );
 }

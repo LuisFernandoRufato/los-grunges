@@ -8,7 +8,7 @@ export default function Navbar() {
         <Link to="/" className="hover:text-purple-300">Home</Link>
         <Link to="/fotos" className="hover:text-purple-300">Fotos</Link>
         <Link to="/agenda" className="hover:text-purple-300">Agenda</Link>
-        <Link to="/contatos" className="hover:text-purple-300">Contato</Link>
+        <Link to="/contato" className="hover:text-purple-300">Contato</Link>
       </div>
     </nav>
   );

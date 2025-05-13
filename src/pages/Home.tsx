@@ -17,7 +17,7 @@ export default function Home() {
       <div className="relative z-20 flex items-center justify-center h-full text-white px-4">
         <div className="bg-transparent p-12 max-w-5xl text-center rounded-xl">
           <h2 className="text-4xl font-extrabold mb-6">
-            O melhor do Grunge & Post Grunge
+            O melhor do Grunge & Post-Grunge
           </h2>
 
           <p className="text-2xl mb-6 leading-relaxed">

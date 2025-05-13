@@ -29,7 +29,7 @@ export default function Home() {
           </p>
 
           <p className="text-2xl leading-relaxed">
-            Nosso repertório inclui também releituras de nomes como Silverchair, Creed, Three Days Grace, Nickelback, Foo Fighters, entre outras bandas adaptadas ao formato acústico, mas mantendo a força das letras e a atmosfera densa que definem o estilo.
+            Nosso repertório inclui também releituras de nomes como Silverchair, Audioslave, Creed, Three Days Grace, Foo Fighters, entre outras bandas adaptadas ao formato acústico, mas mantendo a força das letras e a atmosfera densa que definem o estilo.
           </p>
         </div>
       </div>

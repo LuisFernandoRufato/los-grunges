@@ -1,6 +1,6 @@
 export default function Agenda() {
   const shows = [
-    { data: "28-06-2025", local: "Nociva Pub Bar - Sorocaba, SP" },
+    { data: "28-06-2025", local: "Nociva Pub - Sorocaba, SP" },
   ];
 
   return (
